@@ -1,2 +1,1 @@
-# obsidian-graph-sketchpad
-A graph sketchpad plugin made for CPT_S 453, made by Joshua Samuels.
+# Obsidian Graph Making Plugin For CPT_S 453
